@@ -7,46 +7,40 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+My game is a horror-themed adventure that takes place inside a haunted hotel.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player enters an abandoned hotel to investigate strange activity but becomes trapped when the doors suddenly lock. The goal is to explore the hotel and collect six items that will help the player escape: a Flashlight, Key, First Aid Kit, Security Badge, Rope, and Master Key. The player must collect all six items before entering the basement, where the Haunted Hotel Keeper is waiting. If the player enters the basement before collecting all six items, they lose the game. If all six items are collected first, the player can face the Hotel Keeper and escape.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
+1. Hotel Lobby
+2. Dining Room
+3. Kitchen
+4. Guest Room
+5. Security Room
+6. Laundry Room
+7. Manager's Office
+8. Basement
 
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+1. Flashlight
+2. Key
+3. First Aid Kit
+4. Security Badge
+5. Rope
+6. Master Key
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The villain is the Haunted Hotel Keeper, who is located in the basement. The player must avoid the Haunted Hotel Keeper until all six items have been collected. If the player enters the basement before collecting all six items, the player loses the game.
 
 ## Storyboard and Map Check
 
